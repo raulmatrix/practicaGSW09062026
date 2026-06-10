@@ -49,5 +49,6 @@ INSERT INTO heroes_filtrables (id, name, hero_type, power_level, series_universe
 (27, 'Legolas', 'Marcial', 2, 'Lord of the Rings'),
 (28, 'Scarlet Witch', 'Magia', 10, 'Marvel Comics'),
 (29, 'Shoto Todoroki', 'Elemental', 4, 'My Hero Academia'),
-(30, 'Spider-Gwen', 'Fuerza', 4, 'Marvel Comics');
+(30, 'Spider-Gwen', 'Fuerza', 4, 'Marvel Comics'),
+(31, 'Chapulin', 'Fuerza', 1, 'TV Azteca');
 
